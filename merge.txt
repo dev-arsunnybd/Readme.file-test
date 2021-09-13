@@ -1,1 +1,1 @@
-Some Text From Master
+Merge conflict will happen
